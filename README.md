@@ -17,7 +17,8 @@ This programme uses HTML, CSS (starter code) and Javascript ​to produce a pass
 ## �� USAGE
 ​
 [**>> Visit my portfolio website <<**](https://github.com/khans0)
-​
+![Screenshot of deployed site](../../../../screenshot%20of%20password%20generator.JPG)
+
 ### �� User story
 ​
 ```
